@@ -94,6 +94,7 @@ body {
 }
 
 .plan-description p {
+    margin-top: 5px;
     color: var(--desaturated-blue);
 }
 
